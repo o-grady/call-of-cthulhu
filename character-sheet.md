@@ -34,11 +34,11 @@
 
 ## Character State
 
-**Hit Points**: 10 -> 9 (gunshot graze - self inflicted) -> 2 (attacked by some demon) -> 0 (fell off ladder) -> 1 (saved) -> 3 (healed) -> 8 (healed) -> 9 (night's rest)
+**Hit Points**: 9 
 
-**Sanity**: 60 -> 57
+**Sanity**: 57
 
-**Luck**: 45 *
+**Luck**: 45
 
 **Magic Points**: 14
 
@@ -46,11 +46,11 @@
 
 **Permanent Insanity**: False
 
-**Major Wound**: False -> True
+**Major Wound**: True
 
-**Dying**: False -> True -> False
+**Dying**: False
 
-**Uncontious**: False -> True -> False
+**Uncontious**: False
 
 ## Investigator Skills
 
@@ -154,7 +154,7 @@ silver spoon
 
 **Spending Level**: 10
 
-**Cash**: 46 -> 48 (for vials) -> 44.75 (vials and bread) -> 47.75 -> 46.45
+**Cash**: 46.45
 
 **Assets**: 1150
 
