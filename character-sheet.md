@@ -1,6 +1,6 @@
 ## Personal Information
 
-**Name**: Willis Oswald
+**Name**: Claus Hefeweizen
 
 **Occupation**: Miner and Veteran
 
@@ -59,7 +59,7 @@
 | Art / Craft              | 5    | 2   | 1   | Mech Repair     | 40   | 20  | 8    |
 | Charm                    | 15   | 7   | 3   | Medicine        | 1    | 0   | 0    |
 | Climb                    | 50   | 25  | 10  | Natural World   | 10   | 5   | 2    |
-| Credit Rating            | 0    | 0   | 0   | Navigate        | 10   | 5   | 2    |
+| Credit Rating            | 23   | 0   | 0   | Navigate        | 10   | 5   | 2    |
 | Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 5    | 2   | 1    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine | 31   | 15  | 6    |
 | Dodge                    | 22   | 11  | 4   | Persuade        | 10   | 5   | 2    |
@@ -77,10 +77,10 @@
 | Language (Own)           | 63   | 31  | 12  | Track           | 10   | 5   | 2    |
 
 ## Weapons
-| Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks | Ammo | Malfunction |
-|---------|---------|------|---------|----------|-------|---------|------|-------------|
-| Unarmed |         |      |         | 1d3 + db | -     | 1       | -    | -           |
-|         |         |      |         |          |       |         |      |             |
+| Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks               | Ammo | Malfunction        |
+|---------|---------|------|---------|----------|-------|-----------------------|-------|-------------------|
+| Unarmed |         |      |         | 1d3 + db | -     | 1                     | -     | -                 |
+|         |         |      |         |  1d8     |   15  |  1 (aimed) 3 from hip |    6  | 100               |
 
 ## Combat
 
@@ -130,12 +130,24 @@ A bible once carried by my best friend, before he was butchered by Wilson and hi
 
 ## Gear and Possessions
 
+32 revolver (on hip)
+
+fanny pack
+
+bible(in fanny back)
+
+150 small vials
+
+bread
+
+porno magazine?
+
 ## Cash and Assets
 
-**Spending Level**:
+**Spending Level**: 10
 
-**Cash**: 
+**Cash**: 46 -> 48 -> 44.75
 
-**Assets**:
+**Assets**: 1150
 
 ## Fellow Investigators
