@@ -34,11 +34,11 @@
 
 ## Character State
 
-**Hit Points**: 
+**Hit Points**: 10 -> 9 (gunshot graze - self inflicted) -> 2 (attacked by some demon) -> 0 (fell off ladder) -> 1 (saved) -> 3 (healed) -> 8 (healed) -> 9 (night's rest)
 
-**Sanity**: 60
+**Sanity**: 60 -> 57
 
-**Luck**: 45
+**Luck**: 45 *
 
 **Magic Points**: 14
 
@@ -46,7 +46,11 @@
 
 **Permanent Insanity**: False
 
-**Major Wound**: False
+**Major Wound**: False -> True
+
+**Dying**: False -> True -> False
+
+**Uncontious**: False -> True -> False
 
 ## Investigator Skills
 
@@ -60,16 +64,16 @@
 | Charm                    | 15   | 7   | 3   | Medicine        | 1    | 0   | 0    |
 | Climb                    | 50   | 25  | 10  | Natural World   | 10   | 5   | 2    |
 | Credit Rating            | 23   | 0   | 0   | Navigate        | 10   | 5   | 2    |
-| Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 5    | 2   | 1    |
+| Cthulhu Mythos           | 1    | 0   | 0   | Occult          | 5    | 2   | 1    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine | 31   | 15  | 6    |
 | Dodge                    | 22   | 11  | 4   | Persuade        | 10   | 5   | 2    |
 | Drive Auto               | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
 | Elec Repair              | 10   | 5   | 2   | Psychology      | 10   | 5   | 2    |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
-| Fighting (Brawl)         | 25   | 12  | 5   | Ride            | 5    | 2   | 1    |
+| Fighting (Brawl)         | 35   | 17  | 7   | Ride            | 5    | 2   | 1    |
 | Firearms (Handgun)       | 50   | 25  | 10  | Science         | 1    | 0   | 0    |
-| Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand | 10   | 5   | 2    |
-| First Aid                | 30   | 15  | 6   | Spot Hidden     | 90   | 45  | 18   |
+| Firearms (Rifle/Shotgun) | 35   | 17  | 7   | Sleight Of Hand | 10   | 5   | 2    |
+| First Aid                | 30   | 15  | 6   | Spot Hidden     | 95   | 47  | 11   |
 | History                  | 5    | 2   | 1   | Stealth         | 50   | 25  | 10   |
 | Intimidate               | 15   | 4   | 3   | Survival        | 10   | 5   | 2    |
 | Jump                     | 51   | 25  | 10  | Swim            | 20   | 10  | 4    |
@@ -80,7 +84,7 @@
 | Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks               | Ammo | Malfunction        |
 |---------|---------|------|---------|----------|-------|-----------------------|-------|-------------------|
 | Unarmed |         |      |         | 1d3 + db | -     | 1                     | -     | -                 |
-|         |         |      |         |  1d8     |   15  |  1 (aimed) 3 from hip |    6  | 100               |
+|  .32    |         |      |         |  1d8     |   15  |  1 (aimed) 3 from hip |    6  | 100               |
 
 ## Combat
 
@@ -88,7 +92,7 @@
 
 **Build**: 0
 
-**Dodge**:
+**Dodge**: 22
 
 ## Backstory
 
@@ -128,6 +132,8 @@ A bible once carried by my best friend, before he was butchered by Wilson and hi
 
 ### Ecounters with Strange Entities
 
+Attacked by an unseeable being in the attic of a derelict house in MA. 
+
 ## Gear and Possessions
 
 32 revolver (on hip)
@@ -142,11 +148,13 @@ bread
 
 porno magazine?
 
+silver spoon
+
 ## Cash and Assets
 
 **Spending Level**: 10
 
-**Cash**: 46 -> 48 -> 44.75
+**Cash**: 46 -> 48 (for vials) -> 44.75 (vials and bread) -> 47.75 -> 46.45
 
 **Assets**: 1150
 
