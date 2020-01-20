@@ -1,4 +1,4 @@
-Last played 2020-01-17
+Last played 2020-01-19
 
 ## Personal Information
 
@@ -38,7 +38,7 @@ Last played 2020-01-17
 
 **Hit Points**: 11 (13)
 
-**Sanity**: 47
+**Sanity**: 49 (50)
 
 **Luck**: 50
 
@@ -62,7 +62,7 @@ Last played 2020-01-17
 | Charm                    | 41   | 20  | 8   | Medicine        | 1    | 0   | 0    |
 | Climb                    | 20   | 10  | 4   | Natural World   | 10   | 5   | 2    |
 | Credit Rating            | 14   | 7   | 3   | Navigate        | 10   | 5   | 2    |
-| Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 20   | 10  | 4    |
+| Cthulhu Mythos           | 3    | 1   | 0   | Occult          | 20   | 10  | 4    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine | 20   | 10  | 4    |
 | Dodge                    | 25   | 13  | 5   | Persuade        | 10   | 5   | 2    |
 | Drive Auto               | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
@@ -84,6 +84,7 @@ Last played 2020-01-17
 | Unarmed |         |      |         | 1d3 + db | -     | 1       | -    | -           |
 | Dagger  |         |      |         | 1d4 + 3  |       | 1       |      |             |
 | Crowbar |         |      |         | 1d8 + 3  |       | 1       |      |             |
+| Pistol  |         |      |         | 1d8 + 3  | 15    | 1 or 3 from hip || 99 or up  |
 
 ## Combat
 
@@ -132,11 +133,23 @@ Signed original copy of the Descent of Man by Darwin
 
 ## Gear and Possessions
 
+Shoulder sling bag
+1 dagger
+1 pistol 
+1 crowbar
+1 working kerosene lamp
+1 kerosene lamp without a wick 
+1 bicycle
+1 sarcophagus with an amber
+1 title deed to this farm
+1 letter from Rupert Merriweather
+1 Oldsmobile
+
 ## Cash and Assets
 
 **Spending Level**: 10
 
-**Cash**: 28
+**Cash**: 22.88
 
 **Assets**: 70 camels
 
@@ -216,3 +229,69 @@ Saturday 9PM
 Klaus peeked into attic. Got aced by monster, hurt self falling down. Limped our way back to town.
 
 On arrival in town, try to go to the house above general store. Got in trouble. Played the game of shovels, both Qasam and Bernardo got hit. Spent the night in jail.
+
+Sunday 9AM
+
+Bernando tries to command Fernando the monkey to get the keys, however Fernando is distracted by a cat. 
+
+We try to cry for help, but no one hears. Fernando returns. Fernando gets the keys. We use the keys to let ourselves out. 
+
+Klaus looks around the jail cell and finds a revolver. Klaus gives the revolver to me.
+
+Sunday 10AM 
+
+We walk to the farm house.
+
+Sunday 12PM
+
+Return to the farm house. Our bikes are still there.
+
+We draw the pentagram.
+
+Sunday 1PM
+
+We prepare for the ritual. I find a nice bottle of liqor. Bernardo finds some medicinal herbs. Klaus finds the body of Red Julian, he has a similar chest wound to the others.
+
+Bernardo inspects the wound and finds Red is also missing a heart.
+
+Sunday 3PM 
+
+We move the logs into the sun to dry. 
+
+Sunday 9:30PM
+
+The wood is dry. Pentagram remains intact. We're still in our robes. Klaus has spilled some alcohol on himself.
+
+Sunday 12AM
+
+Start fire,  Start chanting. Acid is oozing from the ceiling through the walls. It touches no one.
+
+I hear the faint screaming of the woman who introduced me to Rupert Merriweather. I ignore it because it sounds wrong and otherwordly. 
+
+The body of Tumoliya rises and starts banging on a window. Klaus shoots the body in the head and its head explodes, splattering over the window.
+
+The body of Red Julian rises and starts banging on another window. While distracted, acid drips on Klaus' head and as a result, he misses his shot. I take one of Klaus' pistols and shoot Red Julian.
+
+Monday 1:30AM
+
+The undead raccoon falls through the trapdoor. Klaus attempts to attack the raccoon but misses and the raccoon latches itself to Klaus' face. Fernando the monkey attacks the raccoon and manages to pull it off of Klaus' face. 
+
+The figure of my damned son appears inside the pentagram. I yell at him that I know the figure is not my son because my son is even more stupid looking than the figure, and my real son needs to be removed from the genepool. I throw the other dust and a larger monster appears around, with grotesque talons and claws.
+
+To Bernardo, the figure inside looks like his former lover Fernando (the priest). This causes Bernardo to go insane, stop chanting, remove all his clothes, and crawl towards the demonic figure. Klaus manages to restrain Bernardo by the ankles. 
+
+My son turns to me and tells me, in an otherworldly voice, that he knows the secrets that will bring down the Street of Walls Barons. I shoot three times into the ceiling in rage. The monster takes that as a refusal.
+
+Monday 2:30AM
+
+Inside the box is a small piece of amber. 
+
+We remove the runes, burn the remaining bodies. Bike back to Arkham, avoiding Ross's Corners.
+
+Tuesday
+
+Return to Arkham, visit a realtor to put the house up for sale. Man in a bowler hat waddles up to us. Asks us if we know Rupert Merriweather. Yes, the man has Rupert's will. Rupert leaves us an Oldsmobile.
+
+We drive to NYC. We have returned to our jobs.
+
+Wednesday
