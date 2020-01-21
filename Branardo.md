@@ -36,7 +36,7 @@
 
 **Hit Points**: 11
 
-**Sanity**: 34
+**Sanity**: 22
 
 **Luck**: 80
 
@@ -57,7 +57,7 @@
 | Appraise                 | 5    | 2   | 1   | Listen          | 30   | 15  | 6    |
 | Archaeology              | 1    | 0   | 0   | Locksmith       | 1    | 0   | 0    |
 | Art / Craft              | 5    | 2   | 1   | Mech Repair     | 10   | 5   | 1    |
-| Charm                    | 15   | 7   | 3   | Medicine        | 90   | 45  | 18   |
+| Charm                    | 15   | 7   | 3   | Medicine        | 95   | 47  | 19   |
 | Climb                    | 20   | 10  | 4   | Natural World   | 80   | 40  | 16   |
 | Credit Rating            | 0    | 0   | 0   | Navigate        | 10   | 5   | 2    |
 | Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 50   | 25  | 10   |
@@ -67,11 +67,11 @@
 | Elec Repair              | 10   | 5   | 2   | Psychology      | 10   | 5   | 2    |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
 | Fighting (Brawl)         | 25   | 12  | 5   | Ride            | 5    | 2   | 1    |
-| Firearms (Handgun)       | 20   | 10  | 4   | Science(boteny) | 80   | 43  | 17   |
+| Firearms (Handgun)       | 20   | 10  | 4   | Science(boteny) | 93   | 46  | 18   |
 | Firearms (Rifle/Shotgun) | 40   | 20  | 8   | Sleight Of Hand | 10   | 5   | 2    |
 | First Aid                | 68   | 34  | 13  | Spot Hidden     | 35   | 17  | 7    |
 | History                  | 50   | 25  | 10  | Stealth         | 20   | 10  | 4    |
-| Intimidate               | 15   | 4   | 3   | Survival(jungle)| 80   | 40  | 16   |
+| Intimidate               | 15   | 4   | 3   | Survival(jungle)| 87   | 43  | 17   |
 | Jump                     | 51   | 25  | 10  | Swim            | 20   | 10  | 4    |
 | Language (Other)         | 1    | 0   | 0   | Throw           | 30   | 15  | 6    |
 | Language (Own)           | 63   | 31  | 12  | Track           | 10   | 5   | 2    |
