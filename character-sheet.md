@@ -34,9 +34,9 @@
 
 ## Character State
 
-**Hit Points**: 9 
+**Hit Points**: 9 -> 6 (acid all on my face) -> 3 (coon attack) -> 7 (medicine) 
 
-**Sanity**: 57
+**Sanity**: 57 -> 56 (trauma from ghost attack) -> 53 (shaky house) -> 52 (ghost rose after I blew her head off) -> 47 (coon attack) -> 46 (old god?) -> 57 (winning?) 
 
 **Luck**: 45
 
@@ -64,16 +64,16 @@
 | Charm                    | 15   | 7   | 3   | Medicine        | 1    | 0   | 0    |
 | Climb                    | 50   | 25  | 10  | Natural World   | 10   | 5   | 2    |
 | Credit Rating            | 23   | 0   | 0   | Navigate        | 10   | 5   | 2    |
-| Cthulhu Mythos           | 1    | 0   | 0   | Occult          | 5    | 2   | 1    |
+| Cthulhu Mythos           | 4    | 2   | 0   | Occult          | 5    | 2   | 1    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine | 31   | 15  | 6    |
 | Dodge                    | 22   | 11  | 4   | Persuade        | 10   | 5   | 2    |
-| Drive Auto               | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
+| Drive Auto                | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
 | Elec Repair              | 10   | 5   | 2   | Psychology      | 10   | 5   | 2    |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
-| Fighting (Brawl)         | 35   | 17  | 7   | Ride            | 5    | 2   | 1    |
+| Fighting (Brawl)         | 39   | 19  | 7   | Ride            | 5    | 2   | 1    |
 | Firearms (Handgun)       | 50   | 25  | 10  | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) | 35   | 17  | 7   | Sleight Of Hand | 10   | 5   | 2    |
-| First Aid                | 30   | 15  | 6   | Spot Hidden     | 95   | 47  | 11   |
+| First Aid                | 30   | 15  | 6   | Spot Hidden     | 96   | 48  | 19   |
 | History                  | 5    | 2   | 1   | Stealth         | 50   | 25  | 10   |
 | Intimidate               | 15   | 4   | 3   | Survival        | 10   | 5   | 2    |
 | Jump                     | 51   | 25  | 10  | Swim            | 20   | 10  | 4    |
@@ -84,7 +84,7 @@
 | Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks               | Ammo | Malfunction        |
 |---------|---------|------|---------|----------|-------|-----------------------|-------|-------------------|
 | Unarmed |         |      |         | 1d3 + db | -     | 1                     | -     | -                 |
-|  .32    |         |      |         |  1d8     |   15  |  1 (aimed) 3 from hip |    6  | 100               |
+|  .32    |         |      |         |  1d8     |   15  |  1 (aimed) 3 from hip |    4  | 100               |
 
 ## Combat
 
@@ -110,7 +110,7 @@ I am deeply resentful of the US government. I believe that WW1 was a conspiracy 
 
 ### Injuries & Scars
 
-Missing an ear ( and hearing ) on the left side, caused by an enemy grenade. 
+Missing an ear ( and hearing ) on the left side, caused by an enemy grenade. Rest of face mauled by eldritch beast.
 
 ### Significant People
 
@@ -149,6 +149,8 @@ bread
 porno magazine?
 
 silver spoon
+
+a nice watch
 
 ## Cash and Assets
 
