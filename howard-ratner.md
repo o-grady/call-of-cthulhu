@@ -36,7 +36,7 @@
 
 **Hit Points**: 15
 
-**Sanity**: 65
+**Sanity**: 65 -> 59 
 
 **Luck**: 60
 
@@ -69,7 +69,7 @@
 | Dodge                        | 50   | 25  | 10  | Persuade        | 55   | 27  | 11  |
 | Drive Auto                   | 20   | 10  | 4   | Pilot           | 1    | 0   | 0   |
 | Elec Repair                  | 10   | 5   | 2   | Psychology      | 10   | 5   | 2   |
-| Fast Talk                    | 70   | 35  | 14  | Psychoanalysis  | 1    | 0   | 0   |
+| Fast Talk      *             | 70   | 35  | 14  | Psychoanalysis  | 1    | 0   | 0   |
 | Fighting (Brawl)             | 25   | 12  | 5   | Ride            | 30   | 15  | 6   |
 | Firearms (Handgun)           | 20   | 10  | 4   | Science         | 1    | 0   | 0   |
 | Firearms (Rifle/Shotgun)     | 70   | 35  | 14  | Sleight Of Hand | 10   | 5   | 2   |
@@ -81,9 +81,10 @@
 | Language (Own)               | 77   | 38  | 15  | Track           | 10   | 5   | 2   |
 
 ## Weapons
-| Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks               | Ammo | Malfunction        |
-|---------|---------|------|---------|----------|-------|-----------------------|-------|-------------------|
-| Unarmed |         |      |         | 1d3 + db | -     | 1                     | -     | -                 |
+| Weapon          | Regular | Hard | Extreme | Damage   | Range | Attacks | Ammo | Malfunction |
+|-----------------|---------|------|---------|----------|-------|---------|------|-------------|
+| Unarmed         |         |      |         | 1d3 + db | -     | 1       | -    | -           |
+| Rifle (22 bolt) |         |      |         | 1d6 + 1  | 30 yd | 1       | 6    | 98          |
 
 ## Combat
 
@@ -133,7 +134,7 @@ I was born into wealth, my parents were New York socialites. When I was Develope
 
 ### Ecounters with Strange Entities
 
-* When I was around 20 years of age, I was brought to a social gathering at a villa upstate by my parents. They wanted me to prevent me from doing opium while they were away. While there, after doing some opium, I wandered to a secluded part of property where I heard noises. A gentleman there told me to leave, but I stuck past. What I witnessed haunts me to this day. A devilish ritual -- writhing limbs and masks made out to resemble terrible beasts. It was here where I encountered something otherworldly, a deep horror that I cannot put to words. I was never caught, but I soon distanced myself from my familie's social circles as I followed my research into the occult.
+* When I was around 20 years of age, I was brought to a social gathering at a villa upstate by my parents. They wanted me to prevent me from doing opium while they were away. While there, after doing some opium, I wandered to a secluded part of property where I heard noises. A gentleman there told me to leave, but I stuck past. What I witnessed haunts me to this day. A devilish ritual -- writhing limbs and masks made out to resemble terrible beasts. It was here where I encountered something otherworldly, a deep horror that I cannot put to words. I was never caught, but I soon distanced myself from my family's social circles as I followed my research into the occult.
 
 ## Gear and Possessions
 
@@ -141,7 +142,7 @@ I was born into wealth, my parents were New York socialites. When I was Develope
 
 ## Cash and Assets
 
-**Spending Level**: 50
+**Spending Level**: 50 -> 48
 
 **Cash**: 385
 
