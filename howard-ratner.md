@@ -34,9 +34,9 @@
 
 ## Character State
 
-**Hit Points**: 15
+**Hit Points**: 15 -> 14
 
-**Sanity**: 65 -> 59 
+**Sanity**: 65 -> 59 -> 58 (the dead have risen) -> 56 (lots of zombies) -> 61 (mission completed)
 
 **Luck**: 60
 
@@ -64,12 +64,12 @@
 | Charm                        | 15   | 7   | 3   | Medicine        | 1    | 0   | 0   |
 | Climb                        | 20   | 10  | 4   | Natural World   | 10   | 5   | 2   |
 | Credit Rating                | 77   | 38  | 15  | Navigate        | 45   | 22  | 9   |
-| Cthulhu Mythos               | 10   | 5   | 2   | Occult          | 50   | 25  | 10  |
+| Cthulhu Mythos               | 12   | 6   | 2   | Occult          | 50   | 25  | 10  |
 | Disguise                     | 5    | 2   | 1   | Op. Hv. Machine | 1    | 0   | 0   |
-| Dodge                        | 50   | 25  | 10  | Persuade        | 55   | 27  | 11  |
+| Dodge                        | 52   | 26  | 10  | Persuade        | 55   | 27  | 11  |
 | Drive Auto                   | 20   | 10  | 4   | Pilot           | 1    | 0   | 0   |
 | Elec Repair                  | 10   | 5   | 2   | Psychology      | 10   | 5   | 2   |
-| Fast Talk      *             | 70   | 35  | 14  | Psychoanalysis  | 1    | 0   | 0   |
+| Fast Talk                    | 70   | 35  | 14  | Psychoanalysis  | 1    | 0   | 0   |
 | Fighting (Brawl)             | 25   | 12  | 5   | Ride            | 30   | 15  | 6   |
 | Firearms (Handgun)           | 20   | 10  | 4   | Science         | 1    | 0   | 0   |
 | Firearms (Rifle/Shotgun)     | 70   | 35  | 14  | Sleight Of Hand | 10   | 5   | 2   |
@@ -138,7 +138,7 @@ I was born into wealth, my parents were New York socialites. When I was Develope
 
 ## Gear and Possessions
 
-
+Trumpet (can raise the dead, will probably drive the user insane). 
 
 ## Cash and Assets
 
