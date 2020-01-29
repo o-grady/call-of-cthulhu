@@ -1,4 +1,4 @@
-Last played 2020-01-20
+Last played 2020-01-28
 
 ## Personal Information
 
@@ -59,19 +59,19 @@ Last played 2020-01-20
 | Appraise                 | 5    | 2   | 1   | Listen +30              | 50   | 25  | 10   |
 | Archaeology              | 1    | 0   | 0   | Locksmith               | 1    | 0   | 0    |
 | Art / Craft              | 5    | 2   | 1   | Mech Repair             | 10   | 5   | 2    |
-| Charm                    | 15   | 7   | 3   | Medicine +79            | 80   | 40  | 16   |
+| Charm                    | 15   | 7   | 3   | Medicine +79            | 86   | 43  | 17   |
 | Climb                    | 20   | 10  | 4   | Natural World           | 10   | 5   | 2    |
 | Credit Rating            | 37   | 0   | 0   | Navigate                | 10   | 5   | 2    |
-| Cthulhu Mythos           | 0    | 0   | 0   | Occult                  | 5    | 2   | 1    |
+| Cthulhu Mythos           | 1    | 0   | 0   | Occult                  | 5    | 2   | 1    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine         | 1    | 0   | 0    |
 | Dodge (half DEX) +20     | 60   | 30  | 12  | Persuade                | 10   | 5   | 2    |
 | Drive Auto               | 20   | 10  | 4   | Pilot                   | 1    | 0   | 0    |
-| Elec Repair              | 10   | 5   | 2   | Psychology +40+15 X     | 65   | 32  | 13   |
+| Elec Repair              | 10   | 5   | 2   | Psychology +40+15       | 71   | 35  | 14   |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis +49+15   | 65   | 32  | 13   |
 | Fighting (Brawl)         | 25   | 17  | 8   | Ride                    | 5    | 2   | 1    |
 | Firearms (Handgun)       | 40   | 20  | 8   | Science (Biology) +49   | 66   | 33  | 13   |
 | Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand         | 10   | 5   | 2    |
-| First Aid +40            | 70   | 35  | 14  | Spot Hidden +30         | 55   | 27  | 11   |
+| First Aid +40            | 76   | 38  | 15  | Spot Hidden +30         | 55   | 27  | 11   |
 | History                  | 40   | 20  | 8   | Stealth                 | 20   | 10  | 4    |
 | Intimidate               | 15   | 7   | 3   | Survival                | 10   | 5   | 2    |
 | Jump                     | 20   | 10  | 8   | Swim                    | 20   | 10  | 4    |
@@ -151,7 +151,7 @@ $675 value of private practice
 
 ## Notes
 
-###Thursday July 15 1920 10PM###
+### Thursday July 15 1920 10PM
 
 A fellow alumni at Cornell has informed me that a professor there requires my services. We are to meet at a bar, Small's Paradise, in Harlem on 135th St. 
 
@@ -185,7 +185,7 @@ Morgan and Dupree Funeral Home / 145th St Harlem. Serving families of African de
 
 We stay the night at Jeffery the Egg's place. 
 
-###Friday July 16 1920 9AM###
+### Friday July 16 1920 9AM
 
 I wake up and go to work, cheerfully helping others. 
 
@@ -215,6 +215,42 @@ We go with Leeroy Turner to get a drink. None other than Louis Armstrong gave hi
 
 I suspect that Turner is holding something back. Armstrong's eyes look like pools of blackness. Howard notices the trumpet has 4 valves instead of 3. Inside the bell of the trumpet are strange symbols.
 
-###Friday July 16 1920 2PM###
+### Friday July 16 1920 2PM
 
 We go to Peter Minusco's office. The police say he's dead. Howard investigates and finds that all the files under the letter B are gone. Probably connected to rival mob boss Archie "The Boss" Bonato. 
+
+Walking away from the building. Louis Armstrong is playing at Small's Paradise 9PM tonight. 
+
+Peter Minusco lives in the upper west side. We go to visit Minusco's apartment. Door is unlocked. I enter the apartment first. Everything is very clean and in its place. I see an open book on a desk across the room. From this distance it looks like a scrapbook. It contains a bunch of clippings about Archie Bonato. There's an accounting ledger next to the scrapbook.
+
+Jeffery notices monthly cash deposits of $1000 for a period of about a year to Archie's. The scrapbook contains article clippings about Archie over the past year. We take the scrapbook and the ledger. 
+
+I take a clip of $120. We mess up the place to make it look like a robbery happened. Jeffery and Howard hit each other and take damage. 
+
+### Friday July 16 1920 6PM
+
+We go to Small's Paradise and chats up the barkeep. We buy a round of drinks. We learn that the Charlie Johnson's brother Irrelevant died and his wife Marnie died this past year. Jeffery goes to the kitchen, he encounters Ed the 6'6" chef. He makes a pasta carbonara, everyone likes the carbonara. 
+
+### Friday July 16 1920 8PM
+
+Ed the cook comes out to give Jeffery a nod, to indicate the music act is here. Jeffery looks over Louis but doesn't hear what he's been whispering. Jeffery asks Louis whether he gave Leeroy a trumpet, Louis says he didn't.
+
+After Jeffery gets back to the bar, Leeroy suddenly runs out across club. We follow him out onto the street, we see Leeroy get shoved into the white packard that Joey Larson got into earlier. We hail a cab and order the driver to follow the car. While our drive is initially suspicious, Jeffery pulls out a gun and intimidates the driver. 
+
+We follow the packard to the edge of Haarlem, lots of vacant lots, next to the Hudson River. Jeffery pays the driver $10 (the fare is $0.30). He attempts to threaten the driver to stay. The driver is too intimidated and speeds off immediately after we get out. 
+
+We see trucks go into an old garage, we assume Archie Bonato is using the garage is using it as an exchange point. There's a derelict office. We see through the window that Leeroy Turner has been tied to a chair in the office. Joey Larson hands him a trumpet. There are 4 other thugs. Jeffery recognizes that Archie Bonato is present. Bonato asks Larson "is this the boy?" Larson says yes. Bonato asks Larson to repeat his story. Larson tells him the story of how he saw Turner bring Lincoln Fayette back to life at the funeral.
+
+Bonato berates Larson for an earlier failure and orders him to shoot himself. Larson refuses. Bonato orders "Little Jimmy" to shoot Larson. Little Jimmy tries to, Larson pulls his gun, Bonato shoots him first. Bonato orders Turner to start playing. Larson's body returns to life and spits blood. It lunges at Bonato. Little Jimmy opens his Tommy gun, the body is still able to keep dancing. Turner is clearly going insane. We all lose our sanity.
+
+Bonato orders Turner is brought to the basement of Mama Shang Bells a brothel in Harlem. As the packard is driving away we see Turner roll out of the back of the car and run away from the car and into Harlem. 
+
+### Saturday July 17 1920 3AM
+
+We realize that Turner may be running towards his dead girlfriend Marnie. We get into a taxi and ask the driver to go to the Trinity cemetary. 
+
+We run into a groundskeeper in the cemetary who tells us where Marnie is buried. As we take the path towards Marnie, we see Turner rush in and starts playing the trumpet.
+
+The undead crawl out of the ground all around us. Jeffery and I are both fast enough to run ahead of the zombies. Howard dodges two zombies. Jeffery attempts to shoot Turner in the head, misses and gets grabbed on the arm by one zombie, the zombie scratches Jeffery's face. I keep running towards Turner, pointing at Jeffery and calling out his name to the zombies. Howard attempts to pretend to be a zombie and shuffles towards Jeffery. Jeffery is thrown to the ground by a zombie, but throws off the zombie.  
+
+Jeffery goes insane and becomes a necrophiliac. I shoot Turner, but do not kill him. I talk Turner down and he drops the trumpet. Howard takes the trumpet. Jeffery attempts to grab Howard, but Howard dodges.
