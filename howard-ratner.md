@@ -34,9 +34,9 @@
 
 ## Character State
 
-**Hit Points**: 15 -> 14
+**Hit Points**: 14
 
-**Sanity**: 65 -> 59 -> 58 (the dead have risen) -> 56 (lots of zombies) -> 61 (mission completed)
+**Sanity**: 61
 
 **Luck**: 60
 
@@ -142,7 +142,7 @@ Trumpet (can raise the dead, will probably drive the user insane).
 
 ## Cash and Assets
 
-**Spending Level**: 50 -> 48
+**Spending Level**: 48
 
 **Cash**: 385
 
