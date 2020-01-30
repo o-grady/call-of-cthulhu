@@ -2,9 +2,9 @@ Last played 2020-01-20
 
 ## Personal Information
 
-**Name**: William Clinton
+**Name**: Seosamh biden
 
-**Occupation**: Lawer(120)
+**Occupation**: Lawer
 
 **Age**: 49
 
@@ -12,7 +12,7 @@ Last played 2020-01-20
 
 **Residence**: Home in Albany NY 
 
-**Birthplace**: Hope, AR
+**Birthplace**: scranton PA
 
 ## Characteristics
 
@@ -110,7 +110,7 @@ Staunch atheist ever after my wife died ive given up belief in god
 ### Injuries & Scars
 
 ### Significant People
-my wife died tragically in an encounter with mobster Jeffery the egg while we were on his private blimp in a hanging gone wrong
+my wife died tragically in an accedent i dont like to speak of
 she knew all my dark secrets so I am eternally indebted to her.
 
 ### Phobias & Manias
@@ -126,7 +126,7 @@ Grave of my wife
 
 ### Treasured Possessions
 
-A Boston terrier named Monica
+A Portuguese Water Dog named corn pop
 
 ### Encounters with Strange Entities
 
