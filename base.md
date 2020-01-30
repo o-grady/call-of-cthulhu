@@ -1,12 +1,10 @@
-Last played 2020-01-20
-
 ## Personal Information
 
 **Name**: 
 
 **Occupation**: 
 
-**Age**: 
+**Age**: you choose, but has effects on base characteristics, page 64 box 1
 
 **Sex**: 
 
@@ -16,33 +14,33 @@ Last played 2020-01-20
 
 ## Characteristics
 
-**STR**: 
+**STR**: 3d6 * 5
 
-**CON**: 
+**CON**: 3d6 * 5
 
-**SIZ**: 
+**SIZ**: (2d6 + 6) * 5 
 
-**DEX**: 
+**DEX**: 3d6 * 5
 
-**APP**: 
+**APP**: 3d6 * 5
 
-**INT**: 
+**INT**: (2d6 + 6) * 5 
 
-**POW**: 
+**POW**: 3d6 * 5
 
-**EDU**: 
+**EDU**: (2d6 + 6) * 5
 
-**Move Rate**: 
+**Move Rate**: page 64 box 3
 
 ## Character State
 
-**Hit Points**: N / N
+**Hit Points**: [current] / [max] ==> (CON + SIZ) / 10
 
-**Sanity**: N / N 
+**Sanity**: [current] / [max] ==> POW
 
-**Luck**: 
+**Luck**: (2d6 + 6) * 5
 
-**Magic Points**: 
+**Magic Points**: POW / 5
 
 **Temporary Insanity**: False
 
@@ -51,6 +49,9 @@ Last played 2020-01-20
 **Major Wound**: False
 
 ## Investigator Skills
+
+Additional points from occupation
+Personal interest points = INT * 2
 
 | Skill                    | Base | 1/2 | 1/5 | Skill           | Base | 1/2 | 1/5  |
 |--------------------------|------|-----|-----|-----------------|------|-----|------|
@@ -61,22 +62,22 @@ Last played 2020-01-20
 | Art / Craft              | 5    | 2   | 1   | Mech Repair     | 10   | 5   | 2    |
 | Charm                    | 15   | 7   | 3   | Medicine        | 1    | 0   | 0    |
 | Climb                    | 20   | 10  | 4   | Natural World   | 10   | 5   | 2    |
-| Credit Rating            | 0    | 0   | 0   | Navigate        | 10   | 5   | 2    |
+| Credit Rating            | x    | x   | x   | Navigate        | 10   | 5   | 2    |
 | Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 5    | 2   | 1    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine | 1    | 0   | 0    |
-| Dodge (half DEX)         | 40   | 20  | 8   | Persuade        | 10   | 5   | 2    |
+| Dodge (half DEX)         | x    | x   | 8   | Persuade        | 10   | 5   | 2    |
 | Drive Auto               | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
 | Elec Repair              | 10   | 5   | 2   | Psychology      | 10   | 5   | 2    |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
 | Fighting (Brawl)         | 25   | 17  | 8   | Ride            | 5    | 2   | 1    |
-| Firearms (Handgun)       | 40   | 20  | 8   | Science         | 1    | 0   | 0    |
+| Firearms (Handgun)       | 20   | 10  | 4   | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand | 10   | 5   | 2    |
 | First Aid                | 30   | 15  | 6   | Spot Hidden     | 25   | 12  | 5    |
 | History                  | 40   | 20  | 8   | Stealth         | 20   | 10  | 4    |
 | Intimidate               | 15   | 7   | 3   | Survival        | 10   | 5   | 2    |
 | Jump                     | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
 | Language (Other)         | 1    | 0   | 0   | Throw           | 20   | 10  | 4    |
-| Language (Own) (EDU)     | 78   | 39  | 15  | Track           | 10   | 5   | 2    |
+| Language (Own) (EDU)     | x    | x   | x   | Track           | 10   | 5   | 2    |
 
 ## Weapons
 | Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks | Ammo | Malfunction |
@@ -85,11 +86,11 @@ Last played 2020-01-20
 
 ## Combat
 
-**Damage Bonus**: 0
+**Damage Bonus**: page 65 box 6
 
-**Build**: 0
+**Build**: page 65 box 6
 
-**Dodge**: 
+**Dodge**: half DEX (copy from skills)
 
 ## Backstory
 
@@ -116,6 +117,8 @@ Last played 2020-01-20
 ## Gear and Possessions
 
 ## Cash and Assets
+
+page 57 table II
 
 **Spending Level**: 
 
