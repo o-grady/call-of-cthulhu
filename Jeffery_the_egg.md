@@ -33,9 +33,9 @@
 
 ## Character State
 
-**Hit Points**:9
+**Hit Points**:9/4
 
-**Sanity**: 65
+**Sanity**: 65/48
 
 **Luck**: 55
 
@@ -57,7 +57,7 @@
 |--------------------------|------|-----|-----|-----------------|------|-----|------|
 | Accounting               | 5    | 2   | 1   | Law             | 45   | 22  | 9    |
 | Anthropology             | 1    | 0   | 0   | Library Use     | 20   | 10  | 4    |
-| Appraise                 | 5    | 2   | 1   | Listen          | 40   | 20  | 8    |
+| Appraise                 | 5    | 2   | 1   | Listen          | 43   | 21  | 8    |
 | Archaeology              | 1    | 0   | 0   | Locksmith       | 50   | 25  | 10   |
 | Art / Craft              | 5    | 2   | 1   | Mech Repair     | 10   | 5   | 1    |
 | Charm                    | 15   | 7   | 3   | Medicine        | 1    | 0   | 0    |
@@ -69,12 +69,12 @@
 | Drive Auto               | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
 | Elec Repair              | 10   | 5   | 2   | Psychology      | 10   | 5   | 2    |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
-| Fighting (Brawl)         | 65   | 32  | 13  | Ride            | 5    | 2   | 1    |
+| Fighting (Brawl)         | 67   | 33  | 13  | Ride            | 5    | 2   | 1    |
 | Firearms (Handgun)       | 50   | 25  | 10  | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand | 30   | 15  | 6    |
 | First Aid                | 30   | 15  | 6   | Spot Hidden     | 45   | 22  |  9   |
 | History                  | 5    | 2   | 1   | Stealth         | 40   | 20  | 8    |
-| Intimidate               | 81   | 40  | 16  | Survival        | 10   | 5   | 2    |
+| Intimidate               | 90   | 45  | 18  | Survival        | 10   | 5   | 2    |
 | Jump                     | 51   | 25  | 10  | Swim            | 20   | 10  | 4    |
 | Language (Other)         | 1    | 0   | 0   | Throw           | 20   | 10  | 4    |
 | Language (Own)           | 53   | 26  | 10  | Track           | 10   | 5   | 2    |
@@ -116,6 +116,7 @@ Babe ruth the greatest player of all time once signed a bat for me and I am fore
 
 horder 
 obsession with pain 
+necrophilia 
 
 ### Meaningful Locations
 

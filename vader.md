@@ -1,10 +1,12 @@
+Last played 2020-01-20
+
 ## Personal Information
 
 **Name**: 
 
 **Occupation**: 
 
-**Age**: you choose, but has effects on base characteristics, page 64 box 1
+**Age**: 
 
 **Sex**: 
 
@@ -14,33 +16,33 @@
 
 ## Characteristics
 
-**STR**: 3d6 * 5
+**STR**: 50
 
-**CON**: 3d6 * 5
+**CON**: 70
 
-**SIZ**: (2d6 + 6) * 5 
+**SIZ**: 60
 
-**DEX**: 3d6 * 5
+**DEX**: 45
 
-**APP**: 3d6 * 5
+**APP**: 60
 
-**INT**: (2d6 + 6) * 5 
+**INT**: 60
 
-**POW**: 3d6 * 5
+**POW**: 65
 
-**EDU**: (2d6 + 6) * 5
+**EDU**: 55
 
-**Move Rate**: page 64 box 3
+**Move Rate**: 7
 
 ## Character State
 
-**Hit Points**: [current] / [max] ==> (CON + SIZ) / 10
+**Hit Points**: 13 / 13
 
-**Sanity**: [current] / [max] ==> POW
+**Sanity**: N / N 
 
-**Luck**: (2d6 + 6) * 5
+**Luck**: 
 
-**Magic Points**: POW / 5
+**Magic Points**: 
 
 **Temporary Insanity**: False
 
@@ -49,9 +51,6 @@
 **Major Wound**: False
 
 ## Investigator Skills
-
-Additional points from occupation
-Personal interest points = INT * 2
 
 | Skill                    | Base | 1/2 | 1/5 | Skill           | Base | 1/2 | 1/5  |
 |--------------------------|------|-----|-----|-----------------|------|-----|------|
@@ -62,22 +61,22 @@ Personal interest points = INT * 2
 | Art / Craft              | 5    | 2   | 1   | Mech Repair     | 10   | 5   | 2    |
 | Charm                    | 15   | 7   | 3   | Medicine        | 1    | 0   | 0    |
 | Climb                    | 20   | 10  | 4   | Natural World   | 10   | 5   | 2    |
-| Credit Rating            | x    | x   | x   | Navigate        | 10   | 5   | 2    |
+| Credit Rating            | 0    | 0   | 0   | Navigate        | 10   | 5   | 2    |
 | Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 5    | 2   | 1    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine | 1    | 0   | 0    |
-| Dodge (half DEX)         | x    | x   | 8   | Persuade        | 10   | 5   | 2    |
+| Dodge (half DEX)         | 22   | 11  | 4   | Persuade        | 10   | 5   | 2    |
 | Drive Auto               | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
 | Elec Repair              | 10   | 5   | 2   | Psychology      | 10   | 5   | 2    |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
 | Fighting (Brawl)         | 25   | 17  | 8   | Ride            | 5    | 2   | 1    |
-| Firearms (Handgun)       | 20   | 10  | 4   | Science         | 1    | 0   | 0    |
+| Firearms (Handgun)       | 40   | 20  | 8   | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand | 10   | 5   | 2    |
 | First Aid                | 30   | 15  | 6   | Spot Hidden     | 25   | 12  | 5    |
 | History                  | 40   | 20  | 8   | Stealth         | 20   | 10  | 4    |
 | Intimidate               | 15   | 7   | 3   | Survival        | 10   | 5   | 2    |
 | Jump                     | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
 | Language (Other)         | 1    | 0   | 0   | Throw           | 20   | 10  | 4    |
-| Language (Own) (EDU)     | x    | x   | x   | Track           | 10   | 5   | 2    |
+| Language (Own) (EDU)     | 78   | 39  | 15  | Track           | 10   | 5   | 2    |
 
 ## Weapons
 | Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks | Ammo | Malfunction |
@@ -86,11 +85,11 @@ Personal interest points = INT * 2
 
 ## Combat
 
-**Damage Bonus**: page 65 box 6
+**Damage Bonus**: 0
 
-**Build**: page 65 box 6
+**Build**: 0
 
-**Dodge**: half DEX (copy from skills)
+**Dodge**: 
 
 ## Backstory
 
@@ -98,27 +97,39 @@ Personal interest points = INT * 2
 
 ### Traits
 
+Generous
+
 ### Ideology / Beliefs 
+
+Staunch atheist
 
 ### Injuries & Scars
 
 ### Significant People
 
+A partner (spouse fiance or lover)
+I'm indebted to them (doesn't have to be financial)
+
 ### Phobias & Manias
 
+Wiccaphobia - Fear of witches and witchcraft
+Dermatillomania - Compulsion for picking at one's skin
+
 ### Meaningful Locations
+
+Grave of a significant person
 
 ### Arcane Tomes, Spells & Artifacts
 
 ### Treasured Possessions
+
+A pet
 
 ### Encounters with Strange Entities
 
 ## Gear and Possessions
 
 ## Cash and Assets
-
-page 57 table II
 
 **Spending Level**: 
 
