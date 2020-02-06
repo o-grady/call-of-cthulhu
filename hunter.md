@@ -1,8 +1,8 @@
-Last played 2020-01-30
+Last played 2020-02-05
 
 ## Personal Information
 
-**Name**: Sgt. Richard "Dick" Clinton 
+**Name**: Sgt. Hunter Biden 
 
 **Occupation**: Soldier
 
@@ -10,7 +10,7 @@ Last played 2020-01-30
 
 **Sex**: M
 
-**Residence**: Clinton manor, Albany, NY 
+**Residence**: Biden manor, Albany, NY 
 
 **Birthplace**: Albany, NY
 
@@ -38,7 +38,7 @@ Last played 2020-01-30
 
 **Hit Points**: 17 / 17 
 
-**Sanity**: 41 / 41 (-9 due to war experience)
+**Sanity**: 40 / 41 (-9 due to war experience)
 
 **Luck**: 80
 
@@ -76,7 +76,7 @@ Last played 2020-01-30
 | Firearms (Handgun) +45        | 65   | 32  | 13  | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) +45  | 70   | 35  | 14  | Sleight Of Hand | 10   | 5   | 2    |
 | First Aid +50                 | 80   | 40  | 16  | Spot Hidden     | 25   | 12  | 5    |
-| History                       | 40   | 20  | 8   | Stealth +30     | 50   | 25  | 10   |
+| History                       | 5    | 2   | 1   | Stealth +30     | 50   | 25  | 10   |
 | Intimidate                    | 15   | 7   | 3   | Survival +40    | 50   | 25  | 10   |
 | Jump                          | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
 | Language (Other)              | 1    | 0   | 0   | Throw           | 20   | 10  | 4    |
@@ -121,7 +121,7 @@ Missing left eye, wears an eye-patch.
 
 ### Significant People
 
-I want to prove myself better than my brother. I went to fight the Great War, and all my brother did was report on the war! He got to stay out of harm's way and keep both of his eyes. The bastard was born in Arkansas and acts like he hit a triple. 
+I want to prove myself better than my brother. I went to fight the Great War, and all my brother did was report on the war! He got to stay out of harm's way and keep both of his eyes. The bastard was born in Delaware and acts like he hit a triple. 
 
 ### Phobias & Manias
 
@@ -201,3 +201,21 @@ Colt M1911 .45 pistol
 ## Fellow Investigators
 
 ## Notes
+
+### Sunday October 1st 1922
+
+Bryce Kennedy calls on the phone. Joe answers. Bryce is now the dean at Miskatonic University. He's asking we come over to solve the incident. We pack up my survival gear, Dad's guns, and head off in the car.
+
+We arrive at Miskatonic University. Enter the office of Bryce Kennedy. Weird stuff happening. Track down something. School received a generous donation of artifacts. Expert investigating the artifacts was found dead. In the confusion, some of the artifacts went missing. Want us to track down the artifacts. Troubled young man. Expert in antiquities. Locate the witch trial papers. 
+
+Where is the body of the deceased? In the medical school. Remaining artifacts are in the office of Professor Ned Snowden. Artifacts came from the estate of the late Alan Dershowitz. We are given a key to Professor Snowden's office and told he lives above the bookstore.  
+
+Go to Professor Snowden's office, open the door. Amelia Core is in the office. Research assistant. Found Snowden's body and noticed the missing artifacts. Door was locked from the inside. He was found passed out in front of the mirror. Papers and money strewn about. Witchcraft trail documents were the most valuable. No strange visitor visitors. But Snowden was acting erratic. Body found on September 24th. We will be able to find Amelia in the office. Look around, don't find anything. Amelia says Professor Snowden keeps a lot of stuff at home. There are some burned remains of documents in the fire place. Amelia says Snowden was controversial, had quirks. Professor Assange would have really enjoyed working on it. 
+
+Arrive at the university medical school. Directed by the secretary to the morgue. Flag down a man, Dr Wheatcroft, over 60, lost weight recently, sickly. Joe removes the sheet. Professor Snowden's face is frozen in a scream. Eyes look like it's been boiled in the body. I hear an echoing in the room next to our room, like a tapping of light footsteps, but I don't see anyone in the other room. When I heard it the doctor also heard it. I ask the doctor what happened to Snowden. Massive heart attack, body suffered a violent, eyes were boiled. All organs failed immediately. Even gut flora is dead. Wheatcroft feels bad about keeping the whole thing hush-hush. We run into Amelia on our way out and Pa invites her to dinner, but he keeps calling it lunch.
+
+Meanwhile, Beau arrives at the office of Professor Assange to "interview" him as a "journalist". Assange reveals he is finalizing a draft of a new book on the Arkham witch trials, after which Assange hopes for tenure. Assange claims Snowden stole from the university and his artifacts are forgeries. 
+
+We run into each other on campus and go to dinner together. Pa identifies a Luigi's Pizza. We go to dinner. Share stories. Amelia reveals she found a receipt from Snowden for changing the locks. At dinner, Anthony walks up to our table, attempts to sit with us. Joe Biden tries to do a push-up contest with Anthony and loses. Anthony leaves.
+
+We go to a bed and breakfast that Amelia recommends. We sleep opposite ends on one queen bed. I bring the car around and hide the guns in a closet.
