@@ -75,7 +75,7 @@ Last played 2020-02-05
 | Fighting (Brawl) +42          | 67   | 33  | 13  | Ride            | 5    | 2   | 1    |
 | Firearms (Handgun) +45        | 65   | 32  | 13  | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) +45  | 70   | 35  | 14  | Sleight Of Hand | 10   | 5   | 2    |
-| First Aid +50                 | 80   | 40  | 16  | Spot Hidden     | 25   | 12  | 5    |
+| First Aid +50 X               | 80   | 40  | 16  | Spot Hidden     | 25   | 12  | 5    |
 | History                       | 5    | 2   | 1   | Stealth +30     | 50   | 25  | 10   |
 | Intimidate                    | 15   | 7   | 3   | Survival +40    | 50   | 25  | 10   |
 | Jump                          | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
@@ -219,3 +219,27 @@ Meanwhile, Beau arrives at the office of Professor Assange to "interview" him as
 We run into each other on campus and go to dinner together. Pa identifies a Luigi's Pizza. We go to dinner. Share stories. Amelia reveals she found a receipt from Snowden for changing the locks. At dinner, Anthony walks up to our table, attempts to sit with us. Joe Biden tries to do a push-up contest with Anthony and loses. Anthony leaves.
 
 We go to a bed and breakfast that Amelia recommends. We sleep opposite ends on one queen bed. I bring the car around and hide the guns in a closet.
+
+### Monday October 2nd 1922
+
+It's morning. Joe Biden got up in the middle of the night and slept in the cafe of the bed and breakfast. We decide to try to break into Snowden's house. Joe goes into the store and starts talking to the shopkeeper. Beau tries to pick the lock but does not succeed. Joe bullshits the store clerk into giving him a spare key. We unlock the door and go up together. The apartment is in a state of semi-organized chaos. Snowden was clearly preparing to leave. We entered a front room, a fire place, and stairs that lead to other parts of the house. 
+
+Beau looks at the fireplace and finds some hastily burned pages, with the words: tonight, date, Illaria, and snake in the corner. There is a business document with a proposal of some sort with a signature and the word "wick". Beau goes into the study and finds a notebook that looks like an account ledger. We're not sure what the numbers mean but they are large, probably beyond a university professor's means. The amounts coming in are slightly larger than what's going out. Joe searches the desk and finds some travel tickets and receipts for numerous trips to Atlantic City. Unopened letter sitting on the corner of the desk. We open the envelope, inside is a letter from the local sanatorium. It's a letter of admission, notifying Ned Snowden that a person named Seth Rich has been admitted and Snowden has assumed guardianship over Seth. While circling the desk, we feel one of the floorboards under the desk is loose and sounds hollow. We pry open the board, find a clip for $1000 and a bundle of loose papers that appear to be partial documents, appears to be a partial copy of manuscripts. 
+
+A strong gust of wind hits the apartment and blows papers on the ground and things get knocked off the shelf. Cornpop the dog growls. I pull my gun and advance towards the stairs going up. Beau runs out and Joe is following behind me. At the top of the stairs, there's two rooms. We enter the first room, find a train ticket for Atlantic City and a single earring. The next room is empty and appears to be empty. Last room is a bathroom. Joe takes off the top of the toilet to see if there's anything in the toilet, there's a poker chip with a V. 
+
+We hear footsteps upstairs in the master bedroom, return up the stairs. After opening the door, a strong gust of wind knocks Joe down the stairs and he splits his head is bleeding. I look around the room and nothing appears to be disturbed, the wind only affected us. 
+
+Beau is on the quad with Amelia. We show the documents to Amelia. She says they appear to be forgeries.
+
+Amelia heard Snowden mention the name Illaria on the phone with the Snake Roadhouse. 
+
+We go to the infirmary. The nurse patches up Joe. Beau throws me under the bus and nearly gets me committed. 
+
+It's late afternoon, we arrive at Snake's Roadhouse. 
+
+Seated at the back by Illaria. Find out Illaria and Snowden were going to elope. Illaria tells us Ned owed money to people because of his blackjack addiction. Business card for Abner Wick. We promise Illaria to help her see Snowden's body.
+
+We are followed out of the speakeasy. Two men approach us. We attempt to run them over, but fail. They approach us again, I draw my gun, they draw their guns. Beau talks us down and negotiates with the two men. We find out that they're after Ned's money. 
+
+We return to the bed and breakfast and retire for the night.
