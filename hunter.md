@@ -36,7 +36,7 @@ Last played 2020-02-05
 
 ## Character State
 
-**Hit Points**: 17 / 17 
+**Hit Points**: 15 / 17 
 
 **Sanity**: 40 / 41 (-9 due to war experience)
 
@@ -80,7 +80,7 @@ Last played 2020-02-05
 | Intimidate                    | 15   | 7   | 3   | Survival +40    | 50   | 25  | 10   |
 | Jump                          | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
 | Language (Other)              | 1    | 0   | 0   | Throw           | 20   | 10  | 4    |
-| Language (Own) (EDU)          | 50   | 25  | 10  | Track +40       | 50   | 25  | 10   |
+| Language (Own) (EDU) X        | 50   | 25  | 10  | Track +40       | 50   | 25  | 10   |
 
 ## Weapons
 | Weapon             | Regular | Hard | Extreme | Damage   | Range  | Attacks | Ammo | Malfunction |
@@ -91,7 +91,7 @@ Last played 2020-02-05
 
 ## Combat
 
-**Damage Bonus**: +1d6
+**Damage Bonus**: +3
 
 **Build**: +2
 
@@ -226,7 +226,7 @@ It's morning. Joe Biden got up in the middle of the night and slept in the cafe 
 
 Beau looks at the fireplace and finds some hastily burned pages, with the words: tonight, date, Illaria, and snake in the corner. There is a business document with a proposal of some sort with a signature and the word "wick". Beau goes into the study and finds a notebook that looks like an account ledger. We're not sure what the numbers mean but they are large, probably beyond a university professor's means. The amounts coming in are slightly larger than what's going out. Joe searches the desk and finds some travel tickets and receipts for numerous trips to Atlantic City. Unopened letter sitting on the corner of the desk. We open the envelope, inside is a letter from the local sanatorium. It's a letter of admission, notifying Ned Snowden that a person named Seth Rich has been admitted and Snowden has assumed guardianship over Seth. While circling the desk, we feel one of the floorboards under the desk is loose and sounds hollow. We pry open the board, find a clip for $1000 and a bundle of loose papers that appear to be partial documents, appears to be a partial copy of manuscripts. 
 
-A strong gust of wind hits the apartment and blows papers on the ground and things get knocked off the shelf. Cornpop the dog growls. I pull my gun and advance towards the stairs going up. Beau runs out and Joe is following behind me. At the top of the stairs, there's two rooms. We enter the first room, find a train ticket for Atlantic City and a single earring. The next room is empty and appears to be empty. Last room is a bathroom. Joe takes off the top of the toilet to see if there's anything in the toilet, there's a poker chip with a V. 
+A strong gust of wind hits the apartment and blows papers on the ground and things get knocked off the shelf. Cornpop the dog growls. I pull my gun and advance towards the stairs going up. Beau runs out and Joe is following behind me. At the top of the stairs, there's two rooms. We enter the first room, find a train ticket for Atlantic City and a single earring. The next room is empty and appears to be empty. Last room is a bathroom. Joe takes off the top of the toilet to see if there's anything in the toilet, there's a poker chip with a B. 
 
 We hear footsteps upstairs in the master bedroom, return up the stairs. After opening the door, a strong gust of wind knocks Joe down the stairs and he splits his head is bleeding. I look around the room and nothing appears to be disturbed, the wind only affected us. 
 
@@ -243,3 +243,31 @@ Seated at the back by Illaria. Find out Illaria and Snowden were going to elope.
 We are followed out of the speakeasy. Two men approach us. We attempt to run them over, but fail. They approach us again, I draw my gun, they draw their guns. Beau talks us down and negotiates with the two men. We find out that they're after Ned's money. 
 
 We return to the bed and breakfast and retire for the night.
+
+### Tuesday October 3rd 1922
+
+Arrive at the Arkham Sanatorium. Tell the receptionist I'm here for an appointment, say a doctor at the university infirmary made an appointment for me here. Receptionist says Dr Armitage will be right out. Joe tries to bullshit the receptionist into a meeting with Seth Rich. Armitage picks us up, we go to his office. He asks me about France, I tell him about it. Joe and Beau go outside to talk to Armitage. Beau talks about obsession with guns and Armitage defends the Second Amendment. Joe starts to bullshit to buy time. I search the room and find a file on Seth in the filing cabinet, I stuff the papers in my pants. After Armitage comes back to the office with Joe and Beau. We go to see Seth. Armitage leaves us in the room.
+
+I back up against the door and take the papers out of my pants and start reading. File, admissions form, September 17 after a profound nervous breakdown. Chewed through the tendons on the back of his own hand. Responding well to medication, but phases in and out. Recites fractured lines of Edgar Allen Poe. Form was signed by a former tutor, Snowden, who found Seth at his home.
+
+Snowden: Dead man he saw them and they saw him. Angels all pallid and blonde. Man its hero the conquerer worm. I recognize the last line from a Poe poem.
+
+Illaria Stone: Seize her next. Waiting tables. Waiting. Worms. 
+
+Dershowitz paper: Her trial, her paper, newborns on her table. 
+
+Poker chip: Money offer, out, not all the way out. Broken geometry. 
+
+Abner Wick: Bad man, eats in his shop. 
+
+There's screeching in the room next door occasionally but no one is in the next room. We leave and run into Armitage on the way out.
+
+We get in the car and head to the library. On our way we run into Bryce Kennedy who asks us whether the mystery can be solved by tomorrow. We run into Amelia who asks us what's going on. She's telling us that Anthony has been going in and out of Snowden's office. We believe Amelia is a witch so Joe bullshits I charm her into following 
+
+Arkham with trials occurred in the 1690s, led by Ahab Dershowitz, an ancestor of Alan Dershowitz. References to an alleged witch, Kirsten Mason. Anthony is sneaking around the library. I tackle him to the ground. We interrogate him, he alleges Bryce Kennedy and Assange and lovers and stole the witch papers. I offend Amelia.
+
+We drive to Snake's Roachhouse. The barkeep tells us Illaria didn't come in for work today. She gives us Illaria's address.
+
+Rope burns around the wrist. Bullet through her forehead. All her money has been taken.
+
+We go to Abner Wick's house. He answers the door. We explain we are looking into Snowden's disappearance. Wick invites us in. He offers us a drink Beau accepts. We discuss Wick's business dealings with Snowden. Wick asks where the body is kept. In reaction, Joe pulls out his gun. The conversation escalates. Wick's apprentices appear in the doorway. The conversation escalates. Joe shoots Wick. The kids attack me, and one grabs my gun and I push off the other. Wick pulls Joe's leg and knocks him over, he hit his head on the table. 
