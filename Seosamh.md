@@ -4,7 +4,7 @@ Last played 2020-01-20
 
 **Name**: Seosamh biden
 
-**Occupation**: Lawer
+**Occupation**: Lawer (corporate finance)
 
 **Age**: 49
 
@@ -36,9 +36,9 @@ Last played 2020-01-20
 
 ## Character State
 
-**Hit Points**: 12/ 12
+**Hit Points**: 12/ 12->11(dust bin to the dead)->12->8(fell down the stairs)->11(hospital)->7(fat guy bashed my head on a table)->5 (fat guy bit my ear)->3(lost ear losing neck)
 
-**Sanity**: 65/65
+**Sanity**: 65/64
 
 **Luck**: 80
 
@@ -54,8 +54,8 @@ Last played 2020-01-20
 
 | Skill                    | Base | 1/2 | 1/5 | Skill           | Base | 1/2 | 1/5  |
 |--------------------------|------|-----|-----|-----------------|------|-----|------|
-| Accounting               | 25   |12   | 1   | Law             | 70   | 35  | 14   |
-| Anthropology             | 1    | 0   | 0   | Library Use     | 70   | 35  | 14   |
+| Accounting               | 5    |12   | 1   | Law             | 70   | 35  | 14   |
+| Anthropology             | 1    | 0   | 0   | Library Use    + | 70   | 35  | 14   |
 | Appraise                 | 5    | 2   | 1   | Listen          | 20   | 10  | 4    |
 | Archaeology              | 1    | 0   | 0   | Locksmith       | 1    | 0   | 0    |
 | Art / Craft              | 5    | 2   | 1   | Mech Repair     | 10   | 5   | 2    |
@@ -65,13 +65,13 @@ Last played 2020-01-20
 | Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 5    | 2   | 1    |
 | Disguise                 | 5    | 2   | 1   | Op. Hv. Machine | 1    | 0   | 0    |
 | Dodge (half DEX)         | 22   | 11  | 4   | Persuade        | 10   | 5   | 2    |
-| Drive Auto               | 60   | 30  | 12  | Pilot           | 1    | 0   | 0    |
-| Elec Repair              | 10   | 5   | 2   | Psychology      | 58   | 29  | 11   |
-| Fast Talk                | 70   | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
-| Fighting (Brawl)         | 25   | 17  | 8   | Ride            | 5    | 2   | 1    |
+| Drive Auto               +| 60   | 30  | 12  | Pilot           | 1    | 0   | 0    |
+| Elec Repair              | 10   | 5   | 2   | Psychology     + | 58   | 29  | 11   |
+| Fast Talk                +| 70   | 35  | 14  | Psychoanalysis  | 1    | 0   | 0    |
+| Fighting (Brawl)         | 25   | 12  | 5   | Ride            | 5    | 2   | 1    |
 | Firearms (Handgun)       | 20   | 20  | 8   | Science         | 1    | 0   | 0    |
-| Firearms (Rifle/Shotgun) | 60   | 30  | 12  | Sleight Of Hand | 10   | 5   | 2    |
-| First Aid                | 30   | 15  | 6   | Spot Hidden     | 45   | 22  | 9    |
+| Firearms (Rifle/Shotgun) +| 60   | 30  | 12  | Sleight Of Hand | 10   | 5   | 2    |
+| First Aid                | 30   | 15  | 6   | Spot Hidden     +| 45   | 22  | 9    |
 | History                  | 40   | 20  | 8   | Stealth         | 20   | 10  | 4    |
 | Intimidate               | 15   | 7   | 3   | Survival        | 10   | 5   | 2    |
 | Jump                     | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
@@ -79,9 +79,10 @@ Last played 2020-01-20
 | Language (Own) (EDU)     | 57   | 28  | 11  | Track           | 10   | 5   | 2    |
 
 ## Weapons
-| Weapon  | Regular | Hard | Extreme | Damage   | Range | Attacks | Ammo | Malfunction |
-|---------|---------|------|---------|----------|-------|---------|------|-------------|
-| Unarmed |         |      |         | 1d3 + db | -     | 1       | -    | -           |
+| Weapon  		   | Regular | Hard | Extreme | Damage      | Range | Attacks | Ammo | Malfunction |
+|--------------------------|---------|------|---------|-------------|-------|---------|------|-------------|
+| Unarmed 		   |         |      |         | 1d3 + db    | -     | 1       | -    | -           |
+| .45 marten henry rifle   |   60    |  30  |	 12   |1d8+1d6+3db  |80yards| 1       | -    | 100         |
 
 ## Combat
 
@@ -89,7 +90,7 @@ Last played 2020-01-20
 
 **Build**: 0
 
-**Dodge**: 
+**Dodge**: 22
 
 ## Backstory
 Im an older southern man who became a lawyer at a young age and through my skill with words have achieved a rather portent standing in society. After my wife had a horrible accident on my friend Jeffery the eggs blimp and died, I gave up my life long faith in god. I am in morning I was indebted to he because she knew all my secrets. My two sons are always fighting but cant seem to move out of my house but I’m to generous to make them move out. 
@@ -101,13 +102,15 @@ an older well dressed man
 ### Traits
 
 Generous
-because I let my 2 
+because I let my 2 sons live with me
 
 ### Ideology / Beliefs 
 
 Staunch atheist ever after my wife died ive given up belief in god
 
 ### Injuries & Scars
+
+my ear got biten off 
 
 ### Significant People
 my wife died tragically in an accedent i dont like to speak of
@@ -131,6 +134,9 @@ A Portuguese Water Dog named corn pop
 ### Encounters with Strange Entities
 
 ## Gear and Possessions
+dressed in a suit constantly wears sunglasses 
+poker chip with a b
+
 
 ## Cash and Assets
 
@@ -142,8 +148,8 @@ A Portuguese Water Dog named corn pop
 country home (20,000)
 Pierce-Arrow (6,000)
 fancy clothes (1,000)
-gun colection (500)
-stocks(11,500)
+gun(20)
+stocks(11,980)
 
 ## Fellow Investigators
 
