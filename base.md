@@ -73,7 +73,7 @@ Personal interest points = INT * 2
 | Firearms (Handgun)       | 20   | 10  | 4   | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand | 10   | 5   | 2    |
 | First Aid                | 30   | 15  | 6   | Spot Hidden     | 25   | 12  | 5    |
-| History                  | 40   | 20  | 8   | Stealth         | 20   | 10  | 4    |
+| History                  | 5    | 2   | 1   | Stealth         | 20   | 10  | 4    |
 | Intimidate               | 15   | 7   | 3   | Survival        | 10   | 5   | 2    |
 | Jump                     | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
 | Language (Other)         | 1    | 0   | 0   | Throw           | 20   | 10  | 4    |
