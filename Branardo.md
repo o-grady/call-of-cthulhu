@@ -94,23 +94,20 @@
 
 ### Personal Description
 
-I am Bernardo, the greatest doctor in all of the known world, from my humble beginnings as a man in a small village of that you could not understand the name of, I have risen to great heights after acquiring a large an investment from the church to send me to school although I do not believe in their god I gladly accept their coin. I will use my considerable medical knowledge to supply only the best medicine to only the highest paying clients. I spend my evenings reclining and reading of plants with my pet monkey Fernando while consuming the physician recommended 0.9 liters of water an hoI am Bernardo, the greatest doctor in all of the known world, from my humble beginnings as a man in a small village of that you could not understand the name of, I have risen to great heights after acquiring a large an investment from the church to send me to school although I do not believe in their god I gladly accept their coin. I will use my considerable medical knowledge to supply only the best medicine to only the highest paying clients. I spend my evenings reclining and reading of plants with my pet monkey Fernando while consuming the physician recommended 0.9 liters of water an hour
-
+I am Bernardo, the greatest doctor in all of the known world, from my humble beginnings as a man in a small village of that you could not understand the name of, I have risen to great heights after acquiring an investment from the Mexican government for my service in the war. I will use my considerable medical knowledge to supply only the best medicine to only the highest paying clients. I spend my evenings reclining and reading of plants with my pet monkey Fernando while consuming the physician recommended 0.9 liters of water an hour. 
 ### Traits
 
 No  Sanity Loss from Corpses , Wants to become best doctor in the world so I can jack up madeical prices and become very wealthy
 
 ### Ideology / Beliefs
 
-I am ruthless and money grubbing; I sold my tribal land to gain money to go to school and become a doctor so I could make every one pay more for medical care.
-
+I am ruthless and money grubbing: I worked for both sides during the caste war so I could make every one pay more for medical care.
 ### Injuries & Scars
 
 
 ### Significant People
 
-My brother who knows I sold our village land to the Franciscan monks for personal gain. He escaped the massacre of the villagers and now sends me threatening letters and telegrams weekly. 
-
+My brother who knows I was a double agent during the war. He escaped and now sends me threatening letters and telegrams weekly.
 ### Phobias & Manias
 
 Fear of cats 
@@ -118,11 +115,11 @@ Craves water
 
 ### Meaningful Locations
 
-The monastery where I first saw Fernando cleaning his robes after he burned down my villag### Arcane Tomes, Spells & Artifacts
+the small office i had in chan santa cruz were i first met my love sophia 
 
 ### Treasured Possessions
 
-Pet monkey named fernando after my first love trained to fight cats if they get to close
+Pet monkey named fernando after my brother trained to fight cats if they get to close
 
 ### Ecounters with Strange Entities
 
