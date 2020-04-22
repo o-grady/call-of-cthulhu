@@ -34,9 +34,9 @@
 
 ## Character State
 
-**Hit Points**: 12
+**Hit Points**: 12->10->7->8
 
-**Sanity**: 45
+**Sanity**: 47->43->41->39->38->39->38
 
 **Luck**: 80
 
@@ -70,10 +70,10 @@ Personal interest points = INT * 2
 | Elec Repair              | 10   | 5   | 2   | Psychology      | 10   | 5   | 2    |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
 | Fighting (Brawl)         | 35   | 17  | 8   | Ride            | 5    | 2   | 1    |
-| Fighting (axe	 )         | 75   | 37  | 15  |                 |      |     |      |
-| Firearms (Handgun)       | 20   | 10  | 4   | Science(boteny) | 50   | 30  | 12   |
+| Fighting (axe	 )         | 76   | 38  | 15  |                 |      |     |      |
+| Firearms (Handgun)       | 20   | 10  | 4   | Science(boteny) | 59   | 34  | 12   |
 | Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand | 10   | 5   | 2    |
-| First Aid                | 70   | 35  | 14  | Spot Hidden     | 25   | 12  | 5    |
+| First Aid                | 70   | 35  | 14  | Spot Hidden     | 30   | 15  | 6    |
 | History                  | 5    | 2   | 1   | Stealth         | 20   | 10  | 4    |
 | Intimidate               | 50   | 25  | 10  | Survival        | 25   | 12  | 5    |
 | Jump                     | 40   | 20  | 8   | Swim            | 20   | 10  | 4    |
@@ -136,7 +136,12 @@ Very nice axe
 
 ## Gear and Possessions
 
-flannel jacket,tie die shirt, jeans, beanie, Wood Axe, Hatchet, rope 
+flannel jacket,tie die shirt, jeans, beanie, Wood Axe, Hatchet, rope
+rusty hunting knife
+5 sticks of dinomite
+
+gold ring 
+
 
 ## Cash and Asset
 **Spending Level**:10 
