@@ -34,9 +34,9 @@
 
 ## Character State
 
-**Hit Points**:10
+**Hit Points**:10->8->5->6->0->2->5
 
-**Sanity**:65
+**Sanity**:65->64->63->62
 
 **Luck**: 45
 
@@ -56,23 +56,23 @@ Additional points from occupation
 |--------------------------|------|-----|-----|-----------------|------|-----|------|
 | Accounting               | 5    | 2   | 1   | Law             | 5    | 2   | 1    |
 | Anthropology             | 1    | 0   | 0   | Library Use     | 20   | 10  | 4    |
-| Appraise                 | 5    | 2   | 1   | Listen          | 60   | 10  | 4    |
-| Archaeology              | 1    | 0   | 0   | Locksmith       | 66   | 0   | 0    |
+| Appraise                 | 5    | 2   | 1   | Listen          | 64   | 32  | 12   |
+| Archaeology              | 1    | 0   | 0   | Locksmith       | 66   | 33  | 13   |
 | Art / Craft              | 5    | 2   | 1   | Mech Repair     | 10   | 5   | 2    |
 | Charm                    | 15   | 7   | 3   | Medicine        | 1    | 0   | 0    |
 | Climb                    | 20   | 10  | 4   | Natural World   | 10   | 5   | 2    |
-| Credit Rating            | 39   | x   | x   | Navigate        | 10   | 5   | 2    |
+| Credit Rating            | 49   | 24  | 9   | Navigate        | 10   | 5   | 2    |
 | Cthulhu Mythos           | 0    | 0   | 0   | Occult          | 5    | 2   | 1    |
-| Disguise                 | 65   | 2   | 1   | Op. Hv. Machine | 1    | 0   | 0    |
-| Dodge (half DEX)         | 33   | 16  | 8   | Persuade        | 50   | 5   | 2    |
+| Disguise                 | 72   | 36  | 14  | Op. Hv. Machine | 1    | 0   | 0    |
+| Dodge (half DEX)         | 33   | 16  | 8   | Persuade        | 50   | 25  | 10   |
 | Drive Auto               | 20   | 10  | 4   | Pilot           | 1    | 0   | 0    |
-| Elec Repair              | 10   | 5   | 2   | Psychology      | 50   | 5   | 2    |
+| Elec Repair              | 10   | 5   | 2   | Psychology      | 60   | 30  | 12   |
 | Fast Talk                | 5    | 2   | 1   | Psychoanalysis  | 1    | 0   | 0    |
-| Fighting (Brawl)         | 75   | 17  | 8   | Ride            | 5    | 2   | 1    |
+| Fighting (Brawl)         | 75   | 37  | 15  | Ride            | 5    | 2   | 1    |
 | Firearms (Handgun)       | 20   | 10  | 4   | Science         | 1    | 0   | 0    |
 | Firearms (Rifle/Shotgun) | 25   | 12  | 5   | Sleight Of Hand | 10   | 5   | 2    |
-| First Aid                | 30   | 15  | 6   | Spot Hidden     | 65   | 12  | 5    |
-| History                  | 5    | 2   | 1   | Stealth         | 70   | 10  | 4    |
+| First Aid                | 30   | 15  | 6   | Spot Hidden     | 65   | 32  | 13   |
+| History                  | 5    | 2   | 1   | Stealth         | 73   | 35  | 14   |
 | Intimidate               | 15   | 7   | 3   | Survival        | 10   | 5   | 2    |
 | Jump                     | 20   | 10  | 8   | Swim            | 20   | 10  | 4    |
 | Language (Other)         | 1    | 0   | 0   | Throw           | 20   | 10  | 4    |
@@ -92,7 +92,7 @@ Additional points from occupation
 **Dodge**: 33
 
 ## Backstory
-I was born in Tsaritsyn in 1899 to a poor family of fishermen. I was raised on the docks spending my days chasing rats for fun and working tirelessly to gut the fish as they came in from the boat, this is where I learned my skills with a knife. When I was 14 my fathers boat sunk as sea and he drowned three days later my mother was hit and killed by the new tram on its inaugural run through the city. The blood of my parents was used to grease the wheel of capitalism. I was a fervent reader of Pravda from the beginning of its publication and was inspired by the words of Trotsky. I was drafted into the army during WWI and but when the revolution began, I joined at the first opportunity. After the revolution I joined the NKVD as an assassin and have sience been working my way up the ranks removing obstacles to the states success when ever needed. 
+I was born in Tsaritsyn in 1897 to a poor family of fishermen. I was raised on the docks spending my days chasing rats for fun and working tirelessly to gut the fish as they came in from the boat, this is where I learned my skills with a knife. When I was 10 my fathers boat sunk as sea and he drowned three days later my mother was hit and killed by the new tram during a test run through the city. The blood of my parents was used to grease the wheel of capitalism. I was a fervent reader of Pravda from the beginning of its publication and was inspired by the words of Trotsky. I was drafted into the army during WWI and but when the revolution began, I joined at the first opportunity. After the revolution I joined the NKVD as an assassin and have sience been working my way up the ranks removing obstacles to the states success when ever needed. 
 ### Personal Description
 
 ### Traits
@@ -119,7 +119,18 @@ A signed edition of our political language by Trotsky I stole from his home afte
 ### Encounters with Strange Entities
 
 ## Gear and Possessions
-
+Woolen Winter Coat 
+Ushanka fur hat 
+Uniform 
+Holster 
+Pistol with optional silencer 
+Identification booklet 
+Canteen with water 
+Canned rations for five days 
+Personal affects
+radio 
+head of garlic
+5 blocks of tnt/ starters 
 ## Cash and Assets
 
 **Spending Level**: 10
